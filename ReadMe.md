@@ -1,4 +1,4 @@
-# Official BarterDEX README
+# Official BarterDEX (dappl project) README
 
 The BarterDEX application created by Komodo Platform allows trading cryptocurrency coins without a counterparty risk.
  The protocol is open-source and trading is available for any coin that any developers choose to connect to The BarterDEX.
